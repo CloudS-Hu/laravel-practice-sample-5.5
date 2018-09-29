@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Sample App</title>
+    <title>@yield('title', 'Sample App') - Laravel 新手入门教程</title>
 </head>
 <body>
 @yield('content')
